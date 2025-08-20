@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local Database
+chroma_db/
+*.db
+
+# Your Personal Data - IMPORTANT!
+# Never commit your personal documents to a public repository.
+my_rag_data/
